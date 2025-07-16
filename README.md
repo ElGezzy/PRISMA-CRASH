@@ -46,7 +46,7 @@ prisma-crash/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/prisma-crash.git
+    git clone https://github.com/ElGezzy/PRISMA-CRASH.git
     cd prisma-crash
     ```
 
