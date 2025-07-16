@@ -59,6 +59,10 @@ prisma-crash/
     ```bash
     npx prisma generate
     ```
+4. Run the .ts file:
+    ```bash
+    npx ts-node index.ts
+    ```
 
 ### Environment Variables
 
